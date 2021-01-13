@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page! I'm currently in a professional reconversion to become a web developer 😄 !
 
-I use HTML5, CSS3 and Javascript to build my projects ⚡
+I use HTML5, CSS3, Javascript and PHP to build my projects ⚡
 Before that I was a graphic designer, passionate about UX and UI Design ⚡
 <!--
 **Zoe-CF/Zoe-CF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
